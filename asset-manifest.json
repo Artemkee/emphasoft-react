@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/emphasoft-react/static/css/main.e7281432.css",
+    "main.js": "/emphasoft-react/static/js/main.d36e816a.js",
+    "static/js/787.cb260b66.chunk.js": "/emphasoft-react/static/js/787.cb260b66.chunk.js",
+    "static/media/Raleway.ttf": "/emphasoft-react/static/media/Raleway.575ec9e676c7a85494bb.ttf",
+    "index.html": "/emphasoft-react/index.html",
+    "main.e7281432.css.map": "/emphasoft-react/static/css/main.e7281432.css.map",
+    "main.d36e816a.js.map": "/emphasoft-react/static/js/main.d36e816a.js.map",
+    "787.cb260b66.chunk.js.map": "/emphasoft-react/static/js/787.cb260b66.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7281432.css",
+    "static/js/main.d36e816a.js"
+  ]
+}
